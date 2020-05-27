@@ -6,6 +6,8 @@ Back end application for the islands game from book [Functional Web Development 
 
 ## Build
 
+Download Islands Engine
+
 ```
 $ cd islands_engine
 $ rebar3 shell
@@ -25,7 +27,7 @@ $ rebar3 shell
 
 ## Web interface
 
-https://github.com/ixmrm01/islands_interface
+[Islands Interface](https://github.com/ixmrm01/islands_interface)
 
 ## Learn more
 

@@ -33,6 +33,6 @@ $ rebar3 shell
 
 * [Erlang Coding Standards & Guidelines](https://github.com/inaka/erlang_guidelines)
 * [Writing Beautiful Code](http://www.gar1t.com/blog/writing-beautiful-code-erlang-factory.html)
-* [Adopting erlang](https://adoptingerlang.org/)
+* [Adopting Erlang](https://adoptingerlang.org/)
 * [Erlang build tool](https://github.com/erlang/rebar3)
 * [Erlang Formatter for Rebar3](https://github.com/AdRoll/rebar3_format)

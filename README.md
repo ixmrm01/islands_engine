@@ -1,5 +1,5 @@
 # islands_engine
-Back end application for the islands game from book [Functional Web Development with Elixir, OTP, and Phoenix](https://pragprog.com/book/lhelph/functional-web-development-with-elixir-otp-and-phoenix)
+Erlang back end application for the islands game from book [Functional Web Development with Elixir, OTP, and Phoenix](https://pragprog.com/book/lhelph/functional-web-development-with-elixir-otp-and-phoenix)
 
 * **[Erlang](https://www.erlang.org) instead of Elixir**
 * **[Syn](http://www.ostinelli.net/an-evaluation-of-erlang-global-process-registries-meet-syn/) instead of Registry**
